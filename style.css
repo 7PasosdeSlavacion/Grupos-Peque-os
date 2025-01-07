@@ -261,6 +261,7 @@ body {
         justify-content: center;
         gap: 0.8rem;
         height: 6rem;
+        padding: 0.4rem;
     }
 
     .barTop img {
