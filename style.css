@@ -265,19 +265,20 @@ body {
 
     .barTop img {
         width: 3rem;
+        top: 0;
         /* Logo más pequeño */
     }
 
     .barTop .find .find_back {
-        width: 6rem;
+        width: 5.4rem;
         height: 2rem;
     }
 
     .barTop .btn_Recursos button,
     .barTop .btn_Pelicula button {
-        width: 4rem;
+        width: 3.5rem;
         height: 2rem;
-        font-size: 0.6rem;
+        font-size: 0.4rem;
     }
 
     .navbar {
