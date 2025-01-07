@@ -259,8 +259,7 @@ body {
     .barTop {
         flex-wrap: wrap;
         justify-content: center;
-        gap: 0.8rem;
-        height: 6rem;
+        height: 9rem;
         padding: 0.4rem;
     }
 
